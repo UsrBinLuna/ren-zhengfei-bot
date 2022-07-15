@@ -1,4 +1,9 @@
 # Ren Zhengfei bot
+&nbsp;
+### This repository is now deprecated. The bot will become fully obsolete with newer version of Discord.JS.
+### Latest reported working version: 13.8.1
+### Please do not use this bot as I will not be fixing security flaws or anything of the like.
+&nbsp;
 #### Originally made for the Huaweicord Discord Server
 &nbsp;
 ## Setup instructions
